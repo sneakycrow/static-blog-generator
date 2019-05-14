@@ -1,0 +1,8 @@
+[package]
+name = "rust-blog"
+version = "0.1.0"
+authors = ["Zachary Sohovich <zachsohovich@thebriga.de>"]
+edition = "2018"
+
+[dependencies]
+comrak = "0.6"
